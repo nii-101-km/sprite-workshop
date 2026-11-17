@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "blue_mug",
+      "label": "Синяя кружка",
+      "category": "Кухня",
+      "prompt": "One blue enamel mug with a white rim and a visible handle.",
+      "mode": "prop",
+      "width": 32,
+      "height": 32,
+      "seed": 42,
+      "auto_process": true
+    },
+    {
+      "id": "wood_floor",
+      "label": "Деревянный пол",
+      "category": "Полы",
+      "prompt": "Old warm wooden floor boards.",
+      "mode": "tile",
+      "width": 32,
+      "height": 32,
+      "seed": 43,
+      "auto_process": true
+    }
+  ]
+}
